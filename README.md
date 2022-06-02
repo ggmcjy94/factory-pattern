@@ -19,8 +19,7 @@
 
   단점
  - 새로 생성할 객체가 늘어날 때마다, Factory 클래스에 추가해야 되기 때문에 클래스가 많아짐
-   
-   
-   
-   
-   
+ 
+4. 사용 라이브러리
+ - java.lang.Calendar 또는 java.lang.NumberFormat 에서 사용한다.
+ - 스프링 BeanFactory
